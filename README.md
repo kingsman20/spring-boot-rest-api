@@ -1,1 +1,6 @@
-# spring-boot-rest-api
+# Spring Boot RESTful APIs
+
+A Basic CRUD APIs built with 
+
+- Spring Boot
+- Java
